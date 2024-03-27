@@ -1,0 +1,12 @@
+[
+ {
+  "id": "Novo Hamburgo",
+  "url": "https://github.com/conniepruden/tmp/raw/main/guide-rex.xml.gz",
+  "map": "https://raw.githubusercontent.com/conniepruden/tmp/main/channels_nh.json"
+ },
+ {
+  "id": "São Leopoldo",
+  "url": "https://github.com/conniepruden/tmp/raw/main/guide-rex.xml.gz",
+  "map": "https://raw.githubusercontent.com/conniepruden/tmp/main/channels_sl.json"
+ }
+]
